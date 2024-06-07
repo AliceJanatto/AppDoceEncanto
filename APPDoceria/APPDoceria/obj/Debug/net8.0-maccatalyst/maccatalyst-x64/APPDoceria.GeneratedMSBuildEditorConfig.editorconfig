@@ -1,0 +1,107 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = APPDoceria
+build_property.ProjectDir = C:\Users\SENAI3EM\Desktop\APP Doceria\APPDoceria\APPDoceria\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/Paginas/BolosPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.Paginas.BolosPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Paginas\BolosPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Paginas\BolosPage.xaml
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/Paginas/BrigadeiroPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.Paginas.BrigadeiroPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Paginas\BrigadeiroPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Paginas\BrigadeiroPage.xaml
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/Paginas/ContatoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.Paginas.ContatoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Paginas\ContatoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Paginas\ContatoPage.xaml
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/Paginas/EditaUsuario.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.Paginas.EditaUsuario.xaml
+build_metadata.AdditionalFiles.TargetPath = Paginas\EditaUsuario.xaml
+build_metadata.AdditionalFiles.RelativePath = Paginas\EditaUsuario.xaml
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/Paginas/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.Paginas.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Paginas\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Paginas\HomePage.xaml
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/Paginas/KitsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.Paginas.KitsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Paginas\KitsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Paginas\KitsPage.xaml
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/Paginas/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.Paginas.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Paginas\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Paginas\LoginPage.xaml
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/Paginas/MenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.Paginas.MenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Paginas\MenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Paginas\MenuPage.xaml
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/Paginas/PerfilPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.Paginas.PerfilPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Paginas\PerfilPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Paginas\PerfilPage.xaml
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/Paginas/TrufasPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.Paginas.TrufasPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Paginas\TrufasPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Paginas\TrufasPage.xaml
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/SENAI3EM/Desktop/APP Doceria/APPDoceria/APPDoceria/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = APPDoceria.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
